@@ -1,0 +1,18 @@
+[submodule "docs-hub"]
+	path = docs-hub
+	url = https://github.com/pixel-ports/docs-hub.git
+[submodule "docs-hub-dal"]
+	path = docs-hub-dal
+	url = https://github.com/pixel-ports/docs-hub-dal.git
+[submodule "docs-hub-ih"]
+	path = docs-hub-ih
+	url = https://github.com/pixel-ports/docs-hub-ih.git
+[submodule "docs-hub-ot"]
+	path = docs-hub-ot
+	url = https://github.com/pixel-ports/docs-hub-ot.git
+[submodule "docs-hub-security"]
+	path = docs-hub-security
+	url = https://github.com/pixel-ports/docs-hub-security.git
+[submodule "docs-hub-dashboard"]
+	path = docs-hub-dashboard
+	url = https://github.com/pixel-ports/docs-hub-dashboard.git
